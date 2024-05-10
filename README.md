@@ -1,7 +1,7 @@
 # PINNs-for-high-resolution-weather-reconstruction-from-sparse-weather-stations
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Scripts of the article 'Physics-informed neural networks for high-resolution weather reconstruction from sparse weather stations'. Submitted to Open Research Europe
+Scripts of the article 'Physics-informed neural networks for high-resolution weather reconstruction from sparse weather stations'. Published in Open Research Europe. DOI: 10.12688/openreseurope.17388.1
 
 Please, read the Instructions.pdf file for a complete description of the scripts and the links to the Zenodo repository where datasets are available.
 
